@@ -84,3 +84,4 @@ class TestClass8 (var a1:Int, val a2:Int){
         println("보조 생성자 호출")
     }
 }
+
