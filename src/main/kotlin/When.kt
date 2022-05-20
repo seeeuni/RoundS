@@ -9,6 +9,7 @@ fun main() {
             println("수행되는 코드")
             println("a1은 2입니다")
         }
-        else -> println("a1은 1,2가 아닙니다.")
+        3-> println("a1은 3입니다")
+        else -> println("a1은 1,2,3이 아닙니다.")
     }
 }
