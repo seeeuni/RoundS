@@ -1,3 +1,5 @@
+import java.sql.DriverManager.println
+
 /* 생성자
     - 객체 생성 시 자동으로 수행될 코드를 작성하는 곳
     - 값을 셋팅하고 삭제하는 목적
