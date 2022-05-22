@@ -19,7 +19,6 @@ fun main(){
     testFun3(0)
 
     //break문 - 가장 가까운 반복문을 종료한다. 반복 횟수가 남아 있더라도 종료된다.
-
     println("-------------------")
     for(item in 1..10) {
         if(item > 5){
